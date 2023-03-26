@@ -48,7 +48,7 @@ section{
 .main{
   display :flex;
   align-items: center;
-  width: 100px;
+  width: 100%;
   min-height: 100vh;
   background :url(images/mohamed.jpg) no-repeat;
   background-size: cover;
